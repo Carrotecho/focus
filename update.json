@@ -1,3 +1,11 @@
 {
-    "build":24
+    "build":25,
+    "en":{
+        "title":"UPDATE TIP",
+        "content":"There are some news.Go ahead!",
+    }
+    "cn":{
+        "title":"更新提示",
+        "content":"有新版本上架啦~快去更新看看!",
+    }
 }
