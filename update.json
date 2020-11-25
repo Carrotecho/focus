@@ -1,11 +1,11 @@
 {
-    "build":25,
+    "build":27,
     "en":{
         "title":"UPDATE TIP",
-        "content":"There are some news.Go ahead!",
+        "content":"There are something new.Go ahead!Happy Thanksgiving Day",
     },
     "cn":{
         "title":"更新提示",
-        "content":"有新版本上架啦~快去更新看看!",
+        "content":"有新版本上架啦~快去更新看看!感恩节快乐~感恩每一个人!",
     }
 }
