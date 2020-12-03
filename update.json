@@ -1,11 +1,11 @@
 {
-    "build":28,
+    "build":29,
     "en":{
         "title":"UPDATE TIP",
-        "content":"There are something new.Go ahead!Happy Thanksgiving Day",
+        "content":"Add function: Continue playing music when enter background",
     },
     "cn":{
         "title":"更新提示",
-        "content":"有新版本上架啦~快去更新看看!感恩节快乐~感恩每一个人!",
+        "content":"有新版本上架啦~快去更新看看!此次更新新增后台播放音乐功能",
     }
 }
